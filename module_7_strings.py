@@ -1,5 +1,3 @@
-# team1_name = 'Мастера кода'
-# team2_name = 'Волшебники данных'
 team1_num = 5
 team2_num = 6
 score_1 = 40
